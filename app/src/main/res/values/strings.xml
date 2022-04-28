@@ -2,9 +2,9 @@
     <string name="app_name">CalcSymp</string>
     <string name="somar">+</string>
     <string name="sub">-</string>
-    <string name="mult">X</string>
-    <string name="div">/</string>
-    <string name="sair">Sair</string>
-    <string name="txtn1">Primeiro Numero</string>
-    <string name="txtn2">Segundo Numero</string>
+    <string name="mult">x</string>
+    <string name="div">÷</string>
+    <string name="sair">exit</string>
+    <string name="txtn1">1° Number</string>
+    <string name="txtn2">2° Number</string>
 </resources>
