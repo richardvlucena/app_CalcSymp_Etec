@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">CalcSymp</string>
+    <string name="app_name">Calc Maddie</string>
     <string name="somar">+</string>
     <string name="sub">-</string>
     <string name="mult">x</string>
     <string name="div">÷</string>
     <string name="sair">exit</string>
-    <string name="txtn1">1° Number</string>
-    <string name="txtn2">2° Number</string>
+    <string name="txtn1">First Number</string>
+    <string name="txtn2">Second Number</string>
 </resources>
