@@ -122,6 +122,7 @@
         android:layout_width="100dp"
         android:layout_height="60dp"
         android:background="@color/madc2"
+        android:paddingTop="10dp"
         android:text="Result"
         android:textAlignment="center"
         android:textColor="@color/madc"
