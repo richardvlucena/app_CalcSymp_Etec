@@ -7,4 +7,5 @@
     <string name="sair">exit</string>
     <string name="txtn1">First Number</string>
     <string name="txtn2">Second Number</string>
+    <string name="clear">Clear</string>
 </resources>
